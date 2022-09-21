@@ -1,1 +1,1 @@
-(Link)[mariamkakushadze.github.io/modal-window]
+[Link](mariamkakushadze.github.io/modal-window)
